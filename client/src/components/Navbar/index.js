@@ -1,8 +1,9 @@
 import React, { Component } from "react";
+import { BrowserRouter as Router } from 'react-router-dom';
 import {
 MDBNavbar, MDBNavbarBrand, MDBNavbarNav, MDBNavItem, MDBNavLink, MDBNavbarToggler, MDBCollapse
 } from "mdbreact";
-import { BrowserRouter as Router } from 'react-router-dom';
+
 
 class NavbarPage extends Component {
 state = {
@@ -11,7 +12,7 @@ state = {
 render() {
   return (
     <Router>
-      <MDBNavbar color="black" dark expand="md">
+      <MDBNavbar color="elegant-color-dark" dark expand="md">
         <MDBNavbarBrand>
           <strong className="white-text">Navbar</strong>
         </MDBNavbarBrand>

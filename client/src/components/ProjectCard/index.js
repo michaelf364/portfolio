@@ -5,7 +5,7 @@ import { MDBCard, MDBCardBody, MDBCardImage, MDBCardTitle, MDBCardText, MDBCol, 
 function ProjectCard(props) {
   return (
     <MDBCardGroup>
-      <MDBCol style={{ maxWidth: "22rem" }}>
+      <MDBCol style={{ width: "22rem" }}>
       <MDBCard>
         <MDBCardImage className="img-fluid" alt={props.name} src={props.image}
           waves />
@@ -13,10 +13,10 @@ function ProjectCard(props) {
           <MDBCardTitle >{props.name}</MDBCardTitle>
           <MDBCardText></MDBCardText>
           <MDBLink to={props.occupation} link>
-                      Home
+                      Github Project
                     </MDBLink>
                     <MDBLink to={props.occupation} link>
-                      Home
+                      Deployed Site
                     </MDBLink>
         </MDBCardBody>
       </MDBCard>
