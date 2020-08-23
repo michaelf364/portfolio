@@ -10,9 +10,9 @@ function App() {
   return (
     <Router >
 
-        <Navbar />
-        <div>
-        <Wrapper className="elegant-color">
+        <Navbar/>
+        <div className="elegant-color">
+        <Wrapper>
           <Route exact path="/" component={About} />
           <Route exact path="/about" component={About} />
           <Route exact path="/projects" component={Projects} />

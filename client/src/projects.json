@@ -2,43 +2,58 @@
   {
     "id": 1,
     "name": "Trivial",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "github": "Fry Cook",
-    "website": "A Pineapple Under the Sea"
+    "image": "https://i.imgur.com/FZRRt76.png",
+    "github": "https://github.com/michaelf364/07-project-01",
+    "website": "https://michaelf364.github.io/07-project-01/"
   },
   {
     "id": 2,
     "name": "TukTuk",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "github": "Restaurant Owner",
-    "website": "A Giant Anchor"
+    "image": "https://i.imgur.com/1cFLSRT.png",
+    "github": "https://github.com/michaelf364/TukTuk",
+    "website": "https://murmuring-sierra-02687.herokuapp.com/"
   },
   {
     "id": 3,
     "name": "Employee Directory",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "github": "Cashier",
-    "website": "An Easter Island Head"
+    "image": "https://i.imgur.com/Y54tk7X.png",
+    "github": "https://github.com/michaelf364/19-EmployeeDirectory",
+    "website": "https://vast-beach-68234.herokuapp.com/"
   },
   {
     "id": 4,
     "name": "Budget Tracker",
-    "image": "../../images/budgetTracker.png",
+    "image": "https://i.imgur.com/K5GLf8w.png",
     "github": "https://github.com/michaelf364/18-PWA",
     "website": "https://desolate-stream-83655.herokuapp.com/"
   },
   {
     "id": 5,
-    "name": "Courage",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-    "github": "A Cowardly Dog",
-    "website": "Nowhere, Kansas"
+    "name": "Weather Dashboard",
+    "image": "https://i.imgur.com/Z4WfilU.png",
+    "github": "https://github.com/michaelf364/06-server-side-apis",
+    "website": "https://michaelf364.github.io/06-server-side-apis/"
   },
   {
     "id": 6,
-    "name": "Doug Funnie",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-    "github": "Student",
-    "website": "Bluffington"
+    "name": "Workout Tracker",
+    "image": "https://i.imgur.com/oUrd53L.png",
+    "github": "https://github.com/michaelf364/17-workouttracker",
+    "website": "https://intense-mountain-97572.herokuapp.com/"
+  },
+  {
+    "id": 7,
+    "name": "Workout Tracker",
+    "image": "https://i.imgur.com/oUrd53L.png",
+    "github": "https://github.com/michaelf364/17-workouttracker",
+    "website": "https://intense-mountain-97572.herokuapp.com/"
+  }
+  ,
+  {
+    "id": 8,
+    "name": "Workout Tracker",
+    "image": "https://i.imgur.com/oUrd53L.png",
+    "github": "https://github.com/michaelf364/17-workouttracker",
+    "website": "https://intense-mountain-97572.herokuapp.com/"
   }
 ]
