@@ -43,17 +43,17 @@
   },
   {
     "id": 7,
-    "name": "Workout Tracker",
-    "image": "https://i.imgur.com/oUrd53L.png",
-    "github": "https://github.com/michaelf364/17-workouttracker",
-    "website": "https://intense-mountain-97572.herokuapp.com/"
+    "name": "Work Day Scheduler",
+    "image": "https://i.imgur.com/KsUuPi8.png",
+    "github": "https://github.com/michaelf364/05-third-party-apis",
+    "website": "https://michaelf364.github.io/05-third-party-apis/"
   }
   ,
   {
     "id": 8,
-    "name": "Workout Tracker",
-    "image": "https://i.imgur.com/oUrd53L.png",
-    "github": "https://github.com/michaelf364/17-workouttracker",
-    "website": "https://intense-mountain-97572.herokuapp.com/"
+    "name": "Note Taker",
+    "image": "https://i.imgur.com/RLQJPcl.png",
+    "github": "https://github.com/michaelf364/11-express",
+    "website": "https://damp-falls-56974.herokuapp.com/"
   }
 ]

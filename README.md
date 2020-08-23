@@ -1,29 +1,54 @@
-# Create React Express App
+# Who's Who
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/michaelf364/portfolio)
 
-## About This Boilerplate
+Michael's Portfolio Based on React
 
-This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
+## Table of Contents 
+* [Website Link](#websitelink)
+* [Images](#images)
+* [Installation](#installation)
+* [Technology Used](#technologyused)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Questions](#questions)
 
-The front-end React app will auto-reload as it's updated via webpack dev server, and the backend Express app will auto-reload independently with nodemon.
+## Website Link
 
-## Starting the app locally
+https://vast-beach-68234.herokuapp.com/
 
-Start by installing front and backend dependencies. While in this directory, run the following command:
+## Images
+|About|Projects|
+|---|---|
+| ![png](https://i.imgur.com/EIvCRxm.png) | ![png](https://i.imgur.com/OVVSnlv.png) |
+## Installation
 
-```
-npm install
-```
+This repository does not require installation.
 
-This should install node modules within the server and the client folder.
+## Technology Used
 
-After both installations complete, run the following command in your terminal:
+react
+dotenv
+eslint
+express
+html
+css
+javascript
+mdbreact
 
-```
-npm start
-```
+## Usage
 
-Your app should now be running on <http://localhost:3000>. The Express server should intercept any AJAX requests from the client.
+Michael's Portfolio Based on React
 
-## Deployment (Heroku)
+## License
 
-To deploy, simply add and commit your changes, and push to Heroku. As is, the NPM scripts should take care of the rest.
+This project is licensed under the GPL 3.0 license.
+
+## Contributing
+
+This repository does not need contributions.
+
+## Questions
+
+If you have any questions about the repo, open an issue or contact [michaelf364](https://github.com/michaelf364/) directly at 1@1.com
+![avatar](https://avatars3.githubusercontent.com/u/26904234?v=4)
