@@ -10,9 +10,9 @@ function ProjectCard(props) {
           />
         <div className='card-body'>
           <h5 className='card-title'>{props.name}</h5>
-          <a href={props.github} target="_blank" rel="noopener noreferrer" class="">Github Project</a>
+          <a href={props.github} target="_blank" rel="noopener noreferrer" className="">Github Project</a>
           <br></br>
-          <a href={props.website} target="_blank" rel="noopener noreferrer" class="">Deployed Website</a>
+          <a href={props.website} target="_blank" rel="noopener noreferrer" className="">Deployed Website</a>
         </div>
       </div>
     </div>
