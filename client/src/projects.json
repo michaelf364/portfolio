@@ -23,7 +23,7 @@
   {
     "id": 4,
     "name": "Budget Tracker",
-    "image": "./images/",
+    "image": "../../images/budgetTracker.png",
     "github": "https://github.com/michaelf364/18-PWA",
     "website": "https://desolate-stream-83655.herokuapp.com/"
   },
