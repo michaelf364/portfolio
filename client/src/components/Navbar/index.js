@@ -12,7 +12,7 @@ state = {
 render() {
   return (
     <Router>
-      <MDBNavbar color="elegant-color-dark" dark expand="md">
+      <MDBNavbar className="fixed" color="elegant-color-dark" dark expand="md">
         <MDBNavbarBrand>
           <strong className="white-text">Navbar</strong>
         </MDBNavbarBrand>
@@ -28,8 +28,8 @@ render() {
               }>About</MDBNavLink>
             </MDBNavItem>
             <MDBNavItem>
-              <MDBNavLink to="/discover"
-              className={window.location.pathname === "/discover" ? "nav-link active" : "nav-link"
+              <MDBNavLink to="/projects"
+              className={window.location.pathname === "/projects" ? "nav-link active" : "nav-link"
               }>Projects</MDBNavLink>
             </MDBNavItem>
           </MDBNavbarNav>

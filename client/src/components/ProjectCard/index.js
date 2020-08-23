@@ -12,10 +12,10 @@ function ProjectCard(props) {
         <MDBCardBody className='elegant-color white-text rounded-bottom'>
           <MDBCardTitle >{props.name}</MDBCardTitle>
           <MDBCardText></MDBCardText>
-          <MDBLink to={props.occupation} link>
+          <MDBLink to={props.github} link>
                       Github Project
                     </MDBLink>
-                    <MDBLink to={props.occupation} link>
+                    <MDBLink to={props.website} link>
                       Deployed Site
                     </MDBLink>
         </MDBCardBody>

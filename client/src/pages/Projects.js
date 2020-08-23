@@ -11,7 +11,7 @@ class Discover extends Component {
 
   render() {
     return (
-      <div>
+      <div background="elegant-color">
         <MDBCardGroup>
         {this.state.projects.map(project => (
           <FriendCard
