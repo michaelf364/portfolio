@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "Trivial",
+    "description":"A lightweight quiz game",
     "image": "https://i.imgur.com/FZRRt76.png",
     "github": "https://github.com/michaelf364/07-project-01",
     "website": "https://michaelf364.github.io/07-project-01/"
@@ -9,6 +10,7 @@
   {
     "id": 2,
     "name": "TukTuk",
+    "description":"A travel blog",
     "image": "https://i.imgur.com/1cFLSRT.png",
     "github": "https://github.com/michaelf364/TukTuk",
     "website": "https://murmuring-sierra-02687.herokuapp.com/"
@@ -16,6 +18,7 @@
   {
     "id": 3,
     "name": "Employee Directory",
+    "description":"A React based Employee Directory",
     "image": "https://i.imgur.com/Y54tk7X.png",
     "github": "https://github.com/michaelf364/19-EmployeeDirectory",
     "website": "https://vast-beach-68234.herokuapp.com/"
@@ -23,6 +26,7 @@
   {
     "id": 4,
     "name": "Budget Tracker",
+    "description":"A Budget Tracker",
     "image": "https://i.imgur.com/K5GLf8w.png",
     "github": "https://github.com/michaelf364/18-PWA",
     "website": "https://desolate-stream-83655.herokuapp.com/"
@@ -30,6 +34,7 @@
   {
     "id": 5,
     "name": "Weather Dashboard",
+    "description":"A Weather Dashboard",
     "image": "https://i.imgur.com/Z4WfilU.png",
     "github": "https://github.com/michaelf364/06-server-side-apis",
     "website": "https://michaelf364.github.io/06-server-side-apis/"
@@ -37,6 +42,7 @@
   {
     "id": 6,
     "name": "Workout Tracker",
+    "description":"A Workout Tracker",
     "image": "https://i.imgur.com/oUrd53L.png",
     "github": "https://github.com/michaelf364/17-workouttracker",
     "website": "https://intense-mountain-97572.herokuapp.com/"
@@ -44,6 +50,7 @@
   {
     "id": 7,
     "name": "Work Day Scheduler",
+    "description":"A Work Day Scheduler",
     "image": "https://i.imgur.com/KsUuPi8.png",
     "github": "https://github.com/michaelf364/05-third-party-apis",
     "website": "https://michaelf364.github.io/05-third-party-apis/"
@@ -52,6 +59,7 @@
   {
     "id": 8,
     "name": "Note Taker",
+    "description":"A Note Taker",
     "image": "https://i.imgur.com/RLQJPcl.png",
     "github": "https://github.com/michaelf364/11-express",
     "website": "https://damp-falls-56974.herokuapp.com/"

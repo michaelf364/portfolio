@@ -18,6 +18,7 @@ class Discover extends Component {
             image={project.image}
             github={project.github}
             website={project.website}
+            description={project.description}
           />
         ))}
       </div>

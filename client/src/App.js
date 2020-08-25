@@ -8,8 +8,7 @@ import Wrapper from "./components/Wrapper";
 
 function App() {
   return (
-    <Router >
-
+    <Router>
         <Navbar/>
         <div className="elegant-color">
         <Wrapper>
